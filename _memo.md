@@ -27,8 +27,3 @@ subject:
 ### website administration : [ADMIN_URL]
 
 ### phpmyadmin : [PHPMYADMIN_URL]
-
-
-
-
-
