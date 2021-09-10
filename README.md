@@ -21,11 +21,6 @@ git clone --depth=1 --branch=master https://github.com/0kyn/_p-templates ._p
 rm -rf ._p/.git
 ```
 
-Go to `._p`
-```bash
-cd ._p
-```
-
 ### Structure example
 
 projects/  
@@ -50,7 +45,7 @@ You might also want to add `._p` directory to your root `.gitignore` file, in th
 - `_memo.md`    : Uses to store temporary notes
 - `_todo.md`    : Lists tasks per module, note some features ideas, enhancements, usefull resources...
 - `_tools.md`   : Uses as a reminder for command line you need to run regularly (npm docker composer)
-- `_stack.md`   : Describes the technical stack, environments... and some keywords
+- `_stack.md`   : Describes the technical stack, environments, technologies... and some keywords
 
 ## Usage
 
@@ -63,7 +58,7 @@ Unlike`_memo.md` which is more like a "notepad on the fly" or a draft for epheme
 `_tools.md` When some tools are not used anymore, it could be interesting to keeps tracks of touchy commands in a cheatsheet before removing.
 
 `_stack.md` could elvolve during project lifetime, one of its goals is to be usefull as much for devs, as for sysadmins. 
-It contains keyword that can help you to find some *technologies* used in the past.
+It contains *keywords* that can help you to find some *technologies* used in the past.
 
 ## /!\ Warning /!\
 
