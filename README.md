@@ -12,12 +12,12 @@ cd /path/to/project
 
 Clone the repository into a folder named `._p`.
 ```bash
-git clone https://github.com/0kyn/_p.git ._p-templates
+git clone https://github.com/0kyn/_p-templates.git ._p
 ```
 
 If you don't want _p-templates to be a git submodule of your current project, you should only clone the master branch of the repository, without keeping `.git` directory.
 ```bash
-git clone --depth=1 --branch=master https://github.com/0kyn/_p.git ._p
+git clone --depth=1 --branch=master https://github.com/0kyn/_p-templates ._p
 rm -rf ._p/.git
 ```
 
