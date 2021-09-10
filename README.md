@@ -60,6 +60,10 @@ Unlike`_memo.md` which is more like a "notepad on the fly" or a draft for epheme
 `_stack.md` could elvolve during project lifetime, one of its goals is to be usefull as much for devs, as for sysadmins. 
 It contains *keywords* that can help you to find some *technologies* used in the past.
 
+## CLI
+
+You can interact with these templates through command line interface [_p](https://github.com/0kyn/_p)
+
 ## /!\ Warning /!\
 
 From the moment when you store sensitive data into these .md file you should be carefull.  
