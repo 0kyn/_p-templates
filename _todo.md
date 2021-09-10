@@ -13,9 +13,11 @@
 
 ### Global
 
-- [+] #1 task completed
+- [x] #1 task completed
 - [-] #2 task in progress
 - [ ] #3 task not completed
+
+*"[-]" to define a task in progress is quite readable in a raw md file, but doesn't render well into Github preview*.
 
 ### Module A
 
