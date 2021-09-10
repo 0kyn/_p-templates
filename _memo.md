@@ -17,11 +17,6 @@ password: u1pass
 id: 2  
 role_id: 3 (guest)
 
-## Email to send 
-
-to: john@doe.fr  
-subject: 
-
 ## Urls
 
 ### website administration : [ADMIN_URL]
