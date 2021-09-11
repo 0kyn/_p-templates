@@ -6,6 +6,7 @@
 - dd/mm/yyyy | Deliver Global
 
 ## Needs
+
 - [ ] needed element to complete Module A #3
 - [-] GDPR text to complete Module B #2 | Legal department (writing in progress)
 
