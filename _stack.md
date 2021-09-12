@@ -40,7 +40,7 @@
 
 ## Permissions
 
-- Apache needs 644 on ./path/to/folder  
+- Apache needs 644 on `./path/to/folder`  
 - [...]
 
 ## Keywords
