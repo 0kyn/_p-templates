@@ -2,7 +2,6 @@
 
 _p templates are project related .md files trying to solve @todo lies, human memory leak, and more... 
 
-
 ## Installation
 
 Go to the root directory of your current project
@@ -64,7 +63,7 @@ It contains *keywords* that can help you to find some *technologies* used in the
 
 You can interact with these templates through command line interface [_p](https://github.com/0kyn/_p)
 
-## /!\ Warning /!\
+## Warning
 
 From the moment when you store sensitive data into these .md file you should be carefull.  
 `_memo.md` **should never contains publicly exposed environments credentials and should not be publicly avalaible.** 
